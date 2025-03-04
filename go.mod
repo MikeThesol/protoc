@@ -1,1 +1,1 @@
-module proto
+module github.com/MikeThesol/protoc
